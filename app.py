@@ -6,7 +6,7 @@ import requests
 from bs4 import BeautifulSoup
 
 # CONFIGURACIÓN - Reemplaza con tu API Key nueva
-genai.configure(api_key="TU_NUEVA_API_KEY_AQUI")
+genai.configure(api_key="AIzaSyC4HTSZEyi88p98QKo60hlG_ovP2GqtYdM")
 model = genai.GenerativeModel('gemini-1.5-flash')
 
 st.set_page_config(page_title="Sanofi MA Bot", layout="wide")
