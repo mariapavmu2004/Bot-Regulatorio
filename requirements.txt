@@ -3,3 +3,5 @@ google-generativeai
 pandas
 PyPDF2
 openpyxl
+requests
+beautifulsoup4
